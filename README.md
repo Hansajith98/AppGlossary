@@ -1,4 +1,4 @@
-# Glossary
+# Glossary Mobile Application
 
 #### This project is a glossary app which create for students of Sabaragamuwa University of Sri Lanka. Six faculties glossary are added and users able to select their departments on dropdown menu of faculty. This is Flutter based application which currently only deployed for Android operating system.
 
